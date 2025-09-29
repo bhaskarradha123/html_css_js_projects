@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #686de0;
+  background:linear-gradient(90deg, #7d5fff, #87ebb1);
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -33,7 +33,7 @@ h3 {
 }
 
 .joke {
-  font-size: 30px;
+  font-size: 20px;
   letter-spacing: 1px;
   line-height: 40px;
   margin: 50px auto;
@@ -41,11 +41,11 @@ h3 {
 }
 
 .btn {
-  background-color: #9f68e0;
+  background:linear-gradient(90deg, #6856b8, #9fe5bc);
   color: #fff;
   border: 0;
   border-radius: 10px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.9);
   padding: 14px 40px;
   font-size: 16px;
   cursor: pointer;
@@ -56,5 +56,5 @@ h3 {
 }
 
 .btn:focus {
-  outline: 0;
+  outline: 6;
 }
