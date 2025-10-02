@@ -16,5 +16,5 @@
 
 # Todo List  📝
 
-- 🚀 **Deployment Link**: [Click Here to Try It](https://kaleidoscopic-taiyaki-8e0350.netlify.app/)  
+- 🚀 **Deployment Link**: [Click Here to Try It](https://genuine-empanada-2e6b97.netlify.app/)  
 - 🔗 **LinkedIn Post**: [View My Post on LinkedIn](https://www.linkedin.com/posts/your-link)
