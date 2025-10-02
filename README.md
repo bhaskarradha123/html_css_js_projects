@@ -13,3 +13,8 @@
 
 - 🚀 **Deployment Link**: [Click Here to Try It](https://kaleidoscopic-taiyaki-8e0350.netlify.app/)  
 - 🔗 **LinkedIn Post**: [View My Post on LinkedIn](https://www.linkedin.com/posts/your-link)
+
+# Todo List  📝
+
+- 🚀 **Deployment Link**: [Click Here to Try It](https://kaleidoscopic-taiyaki-8e0350.netlify.app/)  
+- 🔗 **LinkedIn Post**: [View My Post on LinkedIn](https://www.linkedin.com/posts/your-link)
