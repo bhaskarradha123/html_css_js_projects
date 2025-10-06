@@ -7,7 +7,7 @@
 # Password Generator 🔑
 
 - 🚀 **Deployment Link**: [Click Here to Try It](https://stately-kitten-ce14a0.netlify.app/)  
-- 🔗 **LinkedIn Post**: [View My Post on LinkedIn](https://www.linkedin.com/posts/your-link)
+- 🔗 **LinkedIn Post**: [View My Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7380526194984669184/)
 
 
 # Simple Timer  ⏱
