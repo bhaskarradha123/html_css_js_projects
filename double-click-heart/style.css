@@ -2,41 +2,39 @@
 
 * {
   box-sizing: border-box;
+  text-align: center;
 }
 
 body {
   font-family: 'Oswald', sans-serif;
-  text-align: center;
-  overflow: hidden;
-  margin: 0;
+
 }
 
-h3 {
-  margin-bottom: 0;
-  text-align: center;
-}
 
+h3{
+  margin-top: 40px;
+}
 small {
   display: block;
   margin-bottom: 20px;
-  text-align: center;
 }
-
 .fa-heart {
-  color: red;
+  color: rgb(239, 84, 133);
 }
 
 .loveMe {
-  height: 440px;
+  height: 400px;
   width: 300px;
-  background: url('https://images.unsplash.com/photo-1504215680853-026ed2a45def?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80')
+  background: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZzN3YwcjNvZWl4cm1wemhwanRyY3dzcnFodm1rNHpnZXQ4ZnZ2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PW1W1ccjZTeta/giphy.gif')
     no-repeat center center/cover;
   margin: auto;
   cursor: pointer;
   max-width: 100%;
   position: relative;
-  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  top:40px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.9), 0 10px 10px rgba(0, 0, 0, 0.91);
   overflow: hidden;
+  border-radius: 50px;
 }
 
 .loveMe .fa-heart {
